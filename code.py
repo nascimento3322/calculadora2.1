@@ -11,3 +11,11 @@ c = int(input("Digite um valor: "))
 d = int(input("Digite outro valor: "))
 subtração = c - d 
 print(f"O resultado da subtração é: {subtração}")
+
+
+#Multiplicação 
+e = int(input("Digite um valor: "))
+f = int(input("Digite outro valor: "))
+multiplicação = e * f
+print(f"O resultado da subtração é: {multiplicação}")
+
